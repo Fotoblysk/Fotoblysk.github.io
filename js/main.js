@@ -1,7 +1,3 @@
-/**
- * Created by fotoblysk on 18.10.16.
- */
-function add(x, y) {
-    window.alert("dupa");
+var add = function(x, y) {
     return x + y;
 }
